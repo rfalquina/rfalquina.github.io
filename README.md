@@ -1,2 +1,2 @@
-# rafael-falquina..github.io
+# rfalquina.github.io
 Rafael Falquina personal webpage
